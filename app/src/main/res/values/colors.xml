@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2b275f</color>
+    <color name="colorPrimaryDark">#2b275f</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#fff</color>
+
+    <!--text color-->
+    <color name="textColor">#273D52</color>
+    <color name="headerColor">#147597</color>
+
+    <!--gradient color-->
+    <color name="startColor">#2b275f</color>
+    <color name="endColor">#cb4217</color>
+    <color name="centerColor">#2b275f</color>
+    <color name="userRow">#403FC68B</color>
+
+    <!--icon color-->
+    <color name="iconColor">#145798</color>
+
+</resources>
